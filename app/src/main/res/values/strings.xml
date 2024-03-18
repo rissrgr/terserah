@@ -1,0 +1,106 @@
+<resources>
+    <string name="novel_name">Judul Novel</string>
+    <string name="back">Kembali</string>
+    <string name="share">Bagikan</string>
+    <string name="profile_icon_description">Description of the profile icon</string>
+    <string name="app_name">Novel Kita</string>
+    <string name="novel_image">Gambar</string>
+    <string name="novel_desc">Deskripsi</string>
+    <string name="novel_genre">Genre</string>
+    <string name="novel_author">Penulis</string>
+    <string name="novel_year">Tahun Terbit</string>
+    <string name="novel_rating">Rating</string>
+
+    <string-array name="app_name">
+        <item>Dear Nathan</item>
+        <item>Perahu Kertas</item>
+        <item>Harry Potter</item>
+        <item>Pulang</item>
+        <item>Rentang Waktu</item>
+        <item>Pancarona</item>
+        <item>Laskar Pelangi</item>
+        <item>Mozachiko</item>
+        <item>Manusia dan Badainya</item>
+        <item>Galaksi</item>
+    </string-array>
+
+    <string-array name="novel_image">
+        <item>@drawable/nvl1</item>
+        <item>@drawable/nvl2</item>
+        <item>@drawable/nvl3</item>
+        <item>@drawable/nvl4</item>
+        <item>@drawable/nvl5</item>
+        <item>@drawable/nvl6</item>
+        <item>@drawable/nvl7</item>
+        <item>@drawable/nvl8</item>
+        <item>@drawable/nvl9</item>
+        <item>@drawable/nvl10</item>
+    </string-array>
+
+    <string-array name="novel_desc">
+        <item> Sebuah kisah tentang pertemanan dan cinta remaja yang menggugah, di mana seorang siswa SMA bernama Nathan menerima sebuah surat dari seorang gadis bernama Salma. Surat tersebut memulai petualangan emosional yang mengungkapkan rahasia, pertemanan, dan cinta.</item>
+        <item>Novel ini mengisahkan tentang perjalanan seorang remaja bernama Kugy dalam mencari arti persahabatan dan cinta sejati. Di tengah perjalanan hidupnya, Kugy menemukan banyak keajaiban dan kesulitan yang membentuknya menjadi pribadi yang lebih dewasa.</item>
+        <item>Seri novel fantasi epik yang mengisahkan petualangan seorang penyihir muda bernama Harry Potter dan teman-temannya di sekolah sihir Hogwarts. Mereka berhadapan dengan kekuatan gelap yang dipimpin oleh penyihir jahat bernama Lord Voldemort</item>
+        <item>Novel ini mengisahkan tentang perjalanan seorang pria yang mencari makna hidupnya setelah mengalami peristiwa traumatis di masa lalu. Melalui pencarian ini, ia menemukan kembali akar-akarnya dan menemukan kedamaian dalam dirinya.</item>
+        <item>Kisah tentang perjalanan seorang wanita melintasi waktu dan ruang, mengungkapkan kisah cinta yang melampaui batas zaman. Novel ini memperlihatkan bagaimana cinta bisa menjadi kekuatan yang mengatasi segala rintangan, bahkan rentang waktu itu sendiri.</item>
+        <item>Sebuah novel yang mengisahkan tentang kehidupan sekelompok orang di sebuah desa kecil yang terpencil. Dalam kehidupan sehari-hari mereka, Pancarona mencerminkan kehidupan masyarakat yang penuh dengan kejujuran, perjuangan, dan harapan.</item>
+        <item> Kisah inspiratif tentang perjuangan sekelompok anak-anak muda di sebuah desa kecil di Indonesia untuk mendapatkan pendidikan yang layak. Dengan semangat dan kebersamaan, mereka menghadapi berbagai rintangan dan mencari jalan keluar dari kemiskinan.</item>
+        <item> Sebuah kisah tentang petualangan seorang pemuda yang menjelajahi dunia fantasi yang penuh dengan misteri dan keajaiban. Dalam pencariannya, ia bertemu dengan berbagai karakter unik dan menghadapi berbagai tantangan yang menguji keberaniannya.</item>
+        <item>Novel ini mengisahkan tentang pertemuan antara manusia dan makhluk gaib, yang membawa perubahan besar dalam kehidupan keduanya. Melalui hubungan yang terjalin, mereka belajar tentang keberanian, pengertian, dan kekuatan cinta.</item>
+        <item>Sebuah kisah fiksi ilmiah yang menggambarkan petualangan di luar angkasa, di mana manusia menjelajahi galaksi yang luas dan menemui berbagai makhluk asing. Dalam perjalanan mereka, mereka menemukan rahasia tentang kehidupan, keberadaan, dan takdir.</item>
+    </string-array>
+
+    <string-array name="novel_genre">
+        <item>Genre : Romansa</item>
+        <item>Genre : Romansa</item>
+        <item>Genre : Fantasi</item>
+        <item>Genre : Drama</item>
+        <item>Genre : Fiksi Ilmiah</item>
+        <item>Genre : Drama</item>
+        <item>Genre : Drama</item>
+        <item>Genre : Fantasi</item>
+        <item>Genre : antasi</item>
+        Genre :
+        <item>Fiksi Ilmiah</item>
+    </string-array>
+
+    <string-array name="novel_author">
+        <item>Oleh : Erisca Febriani</item>
+        <item>Oleh : Dewi Lestari</item>
+        <item>Oleh : J. K. Rowling</item>
+        <item>Oleh : Tere Liye</item>
+        <item>Oleh : Farah Via Rahmawati</item>
+        <item>Oleh : Erisca Febriani</item>
+        <item>Oleh : Andrea Hirata</item>
+        <item>Oleh : Poppi Pertiwi</item>
+        <item>Oleh : Syahid Muhammad</item>
+        <item>Oleh : Poppi Pertiwi</item>
+    </string-array>
+
+    <string-array name="novel_year">
+        <item>Tahun Terbit : 2017</item>
+        <item>Tahun Terbit : 2003</item>
+        <item>Tahun Terbit : 1997</item>
+        <item>Tahun Terbit : 2017</item>
+        <item>Tahun Terbit : 2015</item>
+        <item>Tahun Terbit : 2018</item>
+        <item>Tahun Terbit : 2021</item>
+        <item>Tahun Terbit : 2005</item>
+        <item>Tahun Terbit : 2018</item>
+        <item>Tahun Terbit : 2022</item>
+        <item>Tahun Terbit : 2017</item>
+    </string-array>
+
+    <string-array name="novel_rating">
+        <item>Rating: 4.5/5</item>
+        <item>Rating: 4.2/5</item>
+        <item>Rating: 4.4/5</item>
+        <item>Rating: 3.9/5</item>
+        <item>Rating: 4.2/5</item>
+        <item>Rating: 4.0/5</item>
+        <item>Rating: 3.8/5</item>
+        <item>Rating: 4.1/5</item>
+        <item>Rating: 4.4/5</item>
+        <item>Rating: 4.5/5</item>
+    </string-array>
+</resources>

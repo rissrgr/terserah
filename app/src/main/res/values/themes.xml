@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyRecycleView" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#90EE90</item>
+        <item name="colorPrimaryDark">#90EE90</item>
+    </style>
+
+    <style name="Theme.MyRecycleView" parent="Base.Theme.MyRecycleView" />
+</resources>
